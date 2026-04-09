@@ -1,16 +1,31 @@
-## Hi there 👋
+# About Me
 
-<!--
-**ajurisic23/ajurisic23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year student at the Faculty of Organization and Informatics (FOI), specializing in Software Engineering & Development. I am driven to design and build software across desktop, mobile, and web platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Programming Languages and Runtimes
+* C#
+* TypeScript
+* Node.js
+* Kotlin
+* C++
+
+### Frameworks and Libraries
+* .NET Framework
+* Angular
+
+### Databases and Tools
+* SQL
+* Git
+
+### Methodologies
+* Object-Oriented Programming (OOP)
+
+---
+
+## Education
+* Faculty of Organization and Informatics (FOI), University of Zagreb
+* Major: Software Engineering & Development
