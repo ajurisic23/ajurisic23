@@ -23,7 +23,7 @@ I am a third-year student at the Faculty of Organization and Informatics (FOI), 
 
 ### Methodologies
 * Object-Oriented Programming (OOP)
-
+* Asynchronous Programming
 ---
 
 ## Education
